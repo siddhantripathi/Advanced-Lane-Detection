@@ -54,4 +54,17 @@ Calculates the tangent between left and right in two points, and check if it is 
 5. Draw and output:
 We use cv2.polyfill function to draw on the image where the lanes have been detected and output
 
+                                            
+Output looks as such:
+                                            
+<p>
+    <img src="output/1.png" width="220" height="240" />
+</p>      
+<p>
+    <img src="output/2.png" width="220" height="240" />
+</p>                                                    
+
+                                            
+                                            
+                                                                                                       
 
