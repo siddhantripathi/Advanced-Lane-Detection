@@ -34,7 +34,7 @@ The peaks give us the pixel position of lanes identified at the lower side of th
 Sliding windows:
 A curving lane can be imagined as a number of sliding windows on top of each other
 
-![ScreenShot]Advanced-Lane-Detection/ouput/Birds_eye_perspective.png
+![ScreenShot](Advanced-Lane-Detection/ouput/Birds_eye_perspective.png)
 
 ![alt text]https://github.com/siddhantripathi/Advanced-Lane-Detection/blob/main/ouput/sliding_windows.png
 
