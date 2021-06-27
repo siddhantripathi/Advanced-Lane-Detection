@@ -34,6 +34,8 @@ The peaks give us the pixel position of lanes identified at the lower side of th
 Sliding windows:
 A curving lane can be imagined as a number of sliding windows on top of each other
 
+![alt text](https://github.com/siddhantripathi/Advanced-Lane-Detection/blob/main/ouput/1.png)
+
   
 4. Sanity check:
 Checks if left and right fits exist
