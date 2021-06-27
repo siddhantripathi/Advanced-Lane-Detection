@@ -59,7 +59,8 @@ Output looks as such:
                                             
 <p>
     <img src="output/1.png" width="220" height="240" />
-</p>      
+</p>  
+                                                    
 <p>
     <img src="output/2.png" width="220" height="240" />
 </p>                                                    
