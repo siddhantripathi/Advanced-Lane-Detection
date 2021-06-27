@@ -35,7 +35,7 @@ Sliding windows:
 A curving lane can be imagined as a number of sliding windows on top of each other
 
 <p>
-    <img src="Advanced-Lane-Detection/ouput/Birds_eye_perspective.png" width="220" height="240" />
+    <img src="ouput/sliding_windows.png" width="220" height="240" />
 </p>
 
 ![alt text]https://github.com/siddhantripathi/Advanced-Lane-Detection/blob/main/ouput/sliding_windows.png
