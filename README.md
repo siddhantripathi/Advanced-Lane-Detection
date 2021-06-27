@@ -56,14 +56,12 @@ We use cv2.polyfill function to draw on the image where the lanes have been dete
 
                                             
 Output looks as such:
+
+![alt text]https://github.com/siddhantripathi/Advanced-Lane-Detection/blob/main/ouput/1.png  
                                             
-<p>
-    <img src="output/1.png" width="300" height="300" />
-</p>  
-                                                    
-<p>
-    <img src="output/2.png" width="300" height="300" />
-</p>                                                    
+                                            
+![alt text]https://github.com/siddhantripathi/Advanced-Lane-Detection/blob/main/ouput/2.png                                              
+                                            
 
                                             
                                             
