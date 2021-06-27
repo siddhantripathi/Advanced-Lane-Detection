@@ -34,7 +34,7 @@ The peaks give us the pixel position of lanes identified at the lower side of th
 Sliding windows:
 A curving lane can be imagined as a number of sliding windows on top of each other
 
-![Alt text]https://github.com/siddhantripathi/Advanced-Lane-Detection/blob/main/ouput/sliding_windows.png
+![alt text]https://github.com/siddhantripathi/Advanced-Lane-Detection/blob/main/ouput/sliding_windows.png
 
   
 4. Sanity check:
@@ -44,8 +44,8 @@ Calculates the tangent between left and right in two points, and check if it is 
 5. Draw and output:
 We use cv2.polyfill function to draw on the image where the lanes have been detected and output
 
-![Alt text]https://github.com/siddhantripathi/Advanced-Lane-Detection/blob/main/ouput/Birds_eye_perspective.png
+![alt text]https://github.com/siddhantripathi/Advanced-Lane-Detection/blob/main/ouput/Birds_eye_perspective.png
 
 
-![Alt text]https://github.com/siddhantripathi/Advanced-Lane-Detection/blob/main/ouput/Birds_eye_histogram.png
+![alt text]https://github.com/siddhantripathi/Advanced-Lane-Detection/blob/main/ouput/Birds_eye_histogram.png
 
